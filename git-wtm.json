@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/aryanpnd/git-wtm/releases/download/v1.0.0/git-wtm_windows_amd64.zip",
+            "bin": [
+                "git-wtm.exe"
+            ],
+            "hash": "cf4fba29b0925cc3f42c2f0f33ca98faecac6b9e15d68458297a0168a1b6a829"
+        },
+        "arm64": {
+            "url": "https://github.com/aryanpnd/git-wtm/releases/download/v1.0.0/git-wtm_windows_arm64.zip",
+            "bin": [
+                "git-wtm.exe"
+            ],
+            "hash": "d924e18937408cc925e75d72e4c5117e9532d72b300d86339404bcfa4291607e"
+        }
+    },
+    "homepage": "https://github.com/aryanpnd/git-wtm",
+    "license": "MIT",
+    "description": "Modern TUI for managing Git worktrees and branches"
+}
