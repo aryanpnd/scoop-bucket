@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/aryanpnd/git-wtm/releases/download/v1.0.0/git-wtm_windows_amd64.zip",
+            "url": "https://github.com/aryanpnd/git-wtm/releases/download/v1.1.0/git-wtm_windows_amd64.zip",
             "bin": [
                 "git-wtm.exe"
             ],
-            "hash": "acf5319713b6b795731427ed2dc7ffe07cc69b8f67faf198b3c87a6a4a1ffc90"
+            "hash": "8376f77a2eab6e6cbabe11e9565efc2c29f4de1d09acc6dcc5d46019780456f4"
         },
         "arm64": {
-            "url": "https://github.com/aryanpnd/git-wtm/releases/download/v1.0.0/git-wtm_windows_arm64.zip",
+            "url": "https://github.com/aryanpnd/git-wtm/releases/download/v1.1.0/git-wtm_windows_arm64.zip",
             "bin": [
                 "git-wtm.exe"
             ],
-            "hash": "42c2e01eb11386d83e2216f2dfd6d39ae2dd88db854b82c22ff691cbee5735ea"
+            "hash": "3fd8492674f49ae70cfea75f9a7f63528658dfb81e74d52bf755c49a37b335d3"
         }
     },
     "homepage": "https://github.com/aryanpnd/git-wtm",
